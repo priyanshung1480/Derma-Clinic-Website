@@ -17,11 +17,11 @@ https://yourusername.github.io/clinic-website
 
 (Add screenshots here)
 
-![Clinic Homepage](screenshot1.png)
+![Clinic Homepage](home.png)
 
-![Services Section](screenshot2.png)
+![Services Section](services.png)
 
-![Appointment Section](screenshot3.png)
+![Appointment Section](appointment.png)
 
 ---
 
@@ -60,4 +60,34 @@ https://yourusername.github.io/clinic-website
 ---
 
 ## 📂 Project Structure
+clinic-website
+│
+├── derma-clinic.html
+├── images/
+└── README.md
+
+
+---
+
+## 💡 Use Case
+
+This website can be used for:
+
+- Dermatology clinics
+- Skin care clinics
+- Cosmetic clinics
+- Medical centers
+- Doctors and specialists
+  i will Also custom it According to your needs.
+
+---
+
+## 👨‍💻 Author
+
+**Priyanshu Negi**  
+Frontend Web Developer
+
+---
+
+⭐ If you like this project, consider giving it a star on GitHub.
 
