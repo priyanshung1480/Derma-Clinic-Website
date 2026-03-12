@@ -15,8 +15,6 @@ https://priyanshung1480.github.io/Derma-Clinic-Website/
 
 ## 📸 Website Preview
 
-(Add screenshots here)
-
 ![Clinic Homepage](home.png)
 
 ![Services Section](services.png)
@@ -62,7 +60,7 @@ https://priyanshung1480.github.io/Derma-Clinic-Website/
 ## 📂 Project Structure
 clinic-website
 │
-├── derma-clinic.html
+├── Index.html
 ├── images/
 └── README.md
 
