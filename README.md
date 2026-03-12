@@ -9,7 +9,7 @@ This project demonstrates a clean medical UI design with clear call-to-action se
 
 ## 🌐 Live Demo
 
-https://yourusername.github.io/clinic-website
+https://priyanshung1480.github.io/Derma-Clinic-Website/
 
 ---
 
