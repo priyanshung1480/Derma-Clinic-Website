@@ -60,7 +60,8 @@ https://priyanshung1480.github.io/Derma-Clinic-Website/
 ## 📂 Project Structure
 clinic-website
 │
-├── Index.html
+├── index.html
+├── bootstrap.min.css
 ├── images/
 └── README.md
 
